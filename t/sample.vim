@@ -1,4 +1,4 @@
-source demo.vim
+source plugin/demo.vim
 
 describe 'check_round_function'
 
